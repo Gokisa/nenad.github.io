@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {background-color: green;}
+div.a {
+  font-size: 25px;
+}
+div.b {
+  text-align: center;
+  font-size: 70px;
+}
+div.c
+{
+  text-align: center;
+}
+</style>
+<head>
+<div class="b">
+Gokiša
+</div>
+</head>
+<body>
+<div class="a">
+<pre>
+</pre>
+</div>
+<div class="a c">
+<a href="file:///D:/slike.html">Slike</a><br>
+<a href="file:///D:/audio.html">Audio</a><br>
+<a href="file:///D:/video.html">Video</a>
+</div>
+</body>
+</html>
